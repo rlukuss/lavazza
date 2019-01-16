@@ -1,0 +1,17 @@
+body{
+  background:#3A01DF;
+}
+#logo{
+  display: block;
+  margin-left:33%;
+  padding-top:2%;
+  padding-bottom:2%;
+  width:25px;
+}
+#tasse{
+  display: block;
+  margin-left:20%;
+  padding-top:2%;
+  padding-bottom:2%;
+  width:25px;
+}
